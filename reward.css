@@ -1,0 +1,30 @@
+body{
+    font-size: x-large; 
+}
+h1{
+    font-size: 25px;
+}
+.imagen{
+    width: 100%;
+    height: 300px;
+}
+#img1{
+    background-image: url("./¡Cuak!.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#img2{
+    background-image: url("./283942748_1362453477609382_6720664775796095933_n.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#img3{
+    background-image: url("./282876429_423387506318973_3836129925483463389_n.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#img4{
+    background-image: url("./282248928_568466558019279_5670251128353914718_n.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
